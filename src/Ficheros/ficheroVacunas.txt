@@ -1,0 +1,5 @@
+
+
+P Fecha: null Codigo: VAnur8 Nombre: Vacuna 2 Principio activo: Xenovirus Farmaceutica: J&J Precio: 75.0 Fases completadas: 0 
+P Fecha: null Codigo: VAlur8 Nombre: Vacuna 1 Principio activo: Genovirus Farmaceutica: Pfizer Precio: 80.0 Fases completadas: 0 
+
